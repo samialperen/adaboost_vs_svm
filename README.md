@@ -7,6 +7,7 @@ Understanding the similarity and difference between Adaboost M1 and Linear Suppo
 
 * [adaboost.py](/code/adaboost.py): Adaboost-M1 classifier based on linear SVM was implemented by myself without any library to classify data belong to two classes [class A](/data/classA.csv) and [class B](/data/classB.csv). 10-times-10-fold cross validation was used to show that mean and variance of accuracy improved comparing to only linear svm. 
 
+**For more information, check [doc](/doc) folder.**
 
 
 
